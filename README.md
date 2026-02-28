@@ -98,11 +98,11 @@ automated-web-scraping-tool/
 
 ├── README.md
 
-├── app (1).py
-
-├── scraper (1).py
+├── app.py
 
 ├── requirements.txt
+
+├── scraper.py
 
 │
 
