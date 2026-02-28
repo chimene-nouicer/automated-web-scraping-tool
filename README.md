@@ -92,6 +92,8 @@ automated-web-scraping-tool/
 
 ├── .gitignore
 
+├── Génerateur de beauté (diapo).pdf
+
 ├── LICENSE
 
 ├── README.md
