@@ -90,9 +90,9 @@ ai-beauty-assistant/
 
 │
 
-├── scraper.py
+├── scraper (1).py
 
-├── app.py
+├── app (1).py
 
 ├── requirements.txt
 
