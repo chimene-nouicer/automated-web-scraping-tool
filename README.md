@@ -248,3 +248,5 @@ This tool:
 - Does not provide professional diagnosis
 - Provides automated suggestions based on publicly available product descriptions
 - All scraped data remains the property of the original website.
+
+*** Chimène NOUICER (DS2E) Venera SINANAJ (DS2E) ***
