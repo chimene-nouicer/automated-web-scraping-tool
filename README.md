@@ -86,19 +86,21 @@ The application provides a simple and interactive interface:
 
 ## Project Architecture
 
-ai-beauty-assistant/
+automated-web-scraping-tool/
 
 │
 
-├── scraper (1).py
+├── .gitignore
 
-├── app (1).py
-
-├── requirements.txt
+├── LICENSE
 
 ├── README.md
 
-├── .gitignore
+├── app (1).py
+
+├── scraper (1).py
+
+├── requirements.txt
 
 │
 
