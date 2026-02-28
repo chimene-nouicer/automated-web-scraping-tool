@@ -201,6 +201,22 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Project specific
+data/
+*.csv
+*.json
+
+# Streamlit cache
+.streamlit/
+
+# Selenium / Chrome
+selenium/
+chromedriver.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
