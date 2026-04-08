@@ -12,7 +12,7 @@ from selenium.common.exceptions import WebDriverException, NoSuchElementExceptio
 from webdriver_manager.chrome import ChromeDriverManager
 
 # ============================================================
-# ---------------   COMMUN   ---------------
+# ---------------   COMMUN   -------------------
 # ============================================================
 # -----------------------------
 # 1. Structure Produit
